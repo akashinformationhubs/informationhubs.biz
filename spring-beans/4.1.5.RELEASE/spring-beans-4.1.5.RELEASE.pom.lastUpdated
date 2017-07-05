@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jul 05 08:58:17 IST 2017
+default-http\://nexus.paypal.com/nexus/content/groups/All_Public_Repositories/.lastUpdated=1499225296741
+http\://repo.maven.apache.org/maven2/.lastUpdated=1499225297518
+http\://nexus.paypal.com/nexus/content/groups/All_Public_Repositories/.error=Could not transfer artifact org.springframework\:spring-beans\:pom\:4.1.5.RELEASE from/to paypal (http\://nexus.paypal.com/nexus/content/groups/All_Public_Repositories)\: null to http\://nexus.paypal.com/nexus/content/groups/All_Public_Repositories/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE.pom
+http\://nexus.paypal.com/nexus/content/repositories/public-all/.error=Could not transfer artifact org.springframework\:spring-beans\:pom\:4.1.5.RELEASE from/to paypal1 (http\://nexus.paypal.com/nexus/content/repositories/public-all/)\: null to http\://nexus.paypal.com/nexus/content/repositories/public-all/org/springframework/spring-beans/4.1.5.RELEASE/spring-beans-4.1.5.RELEASE.pom
+default-http\://nexus.paypal.com/nexus/content/repositories/public-all/.lastUpdated=1499225296755
